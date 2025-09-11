@@ -19,7 +19,7 @@ A responsive and stylish personal portfolio built with HTML, CSS, and JavaScript
 ## 🚀 Live Demo
 
 Try it here 👇  
-https://zeddy-foreal.github.io/custom-portfolio-website
+https://zeddy-forreal.github.io/custom-portfolio-website
 
 ## 📸 Preview
 
@@ -28,7 +28,7 @@ https://zeddy-foreal.github.io/custom-portfolio-website
 ## 📁 How to Run Locally
 
 ```bash
-git clone https://github.com/zeddy-foreal/custom-portfolio-website.git
+git clone https://github.com/zeddy-forreal/custom-portfolio-website.git
 cd custom-portfolio-website
 # Then open index.html in your browser
 
